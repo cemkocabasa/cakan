@@ -70,12 +70,8 @@ search_full_content: false # can have performance implications for large sites
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+#   - vendor/gems/#   - vendor/ruby/
 
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
 
   # Collections
   collections:
